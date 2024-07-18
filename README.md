@@ -99,17 +99,6 @@ yarn browser start --ssl --cert /path/to/cert.crt --certkey /path/to/certkey.key
 
 Start your browser on https://localhost:3000.
 
-### Run the browser example with Gitpod
-
-[Gitpod](https://www.gitpod.io/) is a Theia-based IDE for GitHub.
-You can start by prefixing any GitHub URL in the Theia repository with `gitpod.io/#`:
-- Open https://gitpod.io/#https://github.com/eclipse-theia/theia to start development with the master branch.
-- Gitpod will start a properly configured for Theia development workspace, clone and build the Theia repository.
-- After the build is finished, run from the terminal in Gitpod:
-
-```sh
-yarn browser start ../.. --hostname 0.0.0.0
-```
 
 ## References
 
