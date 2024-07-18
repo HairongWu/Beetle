@@ -1,7 +1,7 @@
 # Beetle
 
 This project is powered by [PROON株式会社](https://proon.co.jp). 
-The Beetle has been wide used by big bankers in Japan.
+The Beetle has been widely used by big bankers in Japan.
 This repo is the community version of the next generation of Beetle.
 
 <div  align="center">
@@ -22,17 +22,22 @@ This repo is the community version of the next generation of Beetle.
   <img src="imgs/data-diffing.png" width="700"/>
 </div>
 
+### Data audit
+
+<div  align="center">
+  <img src="imgs/audit-values.jpg" width="700"/>
+</div>
+
 ### CI/CD
 
 <div  align="center">
   <img src="imgs/github_report.png" width="700"/>
 </div>
 
-### Data audit
 
-<div  align="center">
-  <img src="imgs/audit-values.jpg" width="700"/>
-</div>
+### Coding
+
+### Testing
 
 ## Knowledge Creation
 
