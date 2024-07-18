@@ -7,14 +7,12 @@ This project is powered by [PROON株式会社](https://proon.co.jp)
 </div>
 
 ## Features
-- Retrieving data form datalakes, such as Snowflake, Deeplake.
-- Retrieving data form vector db and graph db.
-- Automate Development processes (CI/CD, Data Migration, and Data Replication) using UI interfaces
-- Automate knowledge graph creation process using UI interfaces
-- Manage and store large-scale multi-modal data
+- Connects with different kinds of databases, such as MySQL, Snowflake, Deeplake, vector DBs and graph DBs.
+- Automates full development processes (such as design, coding, testing, CI/CD, Data Migration, and Data Replication) using UI interfaces
+- Automates knowledge graph creation process using UI interfaces
 - Provides interfaces for AI solutions
 
-## Development
+## Development Automation
 
 ### Data compare, merge, and edit
 
@@ -33,5 +31,9 @@ This project is powered by [PROON株式会社](https://proon.co.jp)
 <div  align="center">
   <img src="imgs/audit-values.jpg" width="700"/>
 </div>
+
+## Knowledge Creation
+
+
 
 ## References
