@@ -85,9 +85,6 @@ yarn browser start
 ```
 
 Start your browser on http://localhost:3000.
-<div  align="center">
-  <img src="logo/home.png" width="600"/>
-</div>
 
 ### Run the browser example with SSL
 
