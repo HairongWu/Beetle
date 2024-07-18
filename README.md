@@ -3,7 +3,7 @@
 This project is powered by [PROON株式会社](https://proon.co.jp)
 
 <div  align="center">
-  <img src="imgs/framework.png" width="500"/>
+  <img src="imgs/framework.png" width="700"/>
 </div>
 
 ## Features
