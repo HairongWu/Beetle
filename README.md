@@ -1,9 +1,11 @@
 # Beetle
 
-This project is powered by [PROON株式会社](https://proon.co.jp)
+This project is powered by [PROON株式会社](https://proon.co.jp). 
+The Beetle has been wide used by big bankers in Japan.
+This repo is the community version of the next generation of Beetle.
 
 <div  align="center">
-  <img src="imgs/framework.png" width="700"/>
+  <img src="imgs/framework.png" width="800"/>
 </div>
 
 ## Features
@@ -14,7 +16,7 @@ This project is powered by [PROON株式会社](https://proon.co.jp)
 
 ## Development Automation
 
-### Data compare, merge, and edit
+### Database compare, merge, and edit
 
 <div  align="center">
   <img src="imgs/data-diffing.png" width="700"/>
