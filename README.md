@@ -10,7 +10,7 @@ This repo is the community version of the next generation of Beetle.
 
 ## Features
 - Connects with different kinds of databases, such as MySQL, Snowflake, Deeplake, vector DBs and graph DBs.
-- Automates full development processes (such as design, coding, testing, CI/CD, Data Migration, and Data Replication) using UI interfaces
+- Automates full development processes (such as design, coding, testing, CI/CD, Data Migration, and Data Replication) using Auto-X Agents.
 - Automates knowledge graph creation process using UI interfaces
 - Provides interfaces for AI solutions
 
